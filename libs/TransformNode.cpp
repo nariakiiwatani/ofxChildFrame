@@ -2,6 +2,7 @@
 */
 
 #include "TransformNode.h"
+#include "ofGraphics.h"
 
 TransformNode::TransformNode()
 :translation_()
